@@ -7,7 +7,7 @@ KEM (Keep an Eye on your Machine) Studio aims at a simple and affordable open so
   * Simple camera-based monitoring
   * Automated email notification and printer stop
 
-![KEM Studio for FDM - Overview](<img src="/docs/kem_studio_for_fdm_overview.png" height="450">)
+<img src="/docs/kem_studio_for_fdm_overview.png" height="300">
 
 Developed by Hyungjung Kim and Hyunsu Lee at IDIM SNU
 
