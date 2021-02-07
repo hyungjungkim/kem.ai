@@ -5,6 +5,8 @@ KEM (Keep an Eye on your Machine) Studio aims at a simple and affordable open so
 * KEM Studio for FDM is our first app for FDM-style 3D printers.
 ** ddd
 
+![KEM Studio for FDM - Overview](/docs/kem_studio_for_fdm_overview.png)
+
 Developed by Hyungjung Kim and Hyunsu Lee at IDIM SNU
 
 Contact by [email](mailto:hjkim81@snu.ac.kr)
