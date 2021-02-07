@@ -7,7 +7,7 @@ KEM Studio for FDM is our first app for FDM-style 3D printers.
 * Simple camera-based monitoring
 * Automated email notification and printer stop
 
-<img src="/docs/kem_studio_for_fdm_overview.png" height="300">
+<img src="kem_studio_for_fdm_overview.png" height="300">
 
 Developed by Hyungjung Kim and Hyunsu Lee at IDIM SNU
 
