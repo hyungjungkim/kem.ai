@@ -13,5 +13,4 @@ Download the latest version
 * KEM Studio for FDM Beta 1.0 (will be updated soon)
 
 Developed by Hyungjung Kim and Hyunsu Lee at IDIM SNU
-
-Contact by [email](mailto:hjkim81@snu.ac.kr)
+* Contact by [email](mailto:hjkim81@snu.ac.kr)
