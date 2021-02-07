@@ -9,6 +9,9 @@ KEM Studio for FDM is our first app for FDM-style 3D printers.
 
 <img src="kem_studio_for_fdm_overview.png" height="300">
 
+Download the latest version
+* [KEM Studio for FDM Beta 1.0](url)
+
 Developed by Hyungjung Kim and Hyunsu Lee at IDIM SNU
 
 Contact by [email](mailto:hjkim81@snu.ac.kr)
