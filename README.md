@@ -1,8 +1,9 @@
 # KEM Studio
 
-KEM (Keep an Eye on your Machine) Studio is a simple and affordable monitoring app from manufacturing machines/devices.
+KEM (Keep an Eye on your Machine) Studio aims at a simple and affordable open source monitoring solution for manufacturing machines/devices.
 
-KEM Studio for FDM is under maintenance. Please wait a few days.
+* KEM Studio for FDM is our first app for FDM-style 3D printers.
+** ddd
 
 Developed by Hyungjung Kim and Hyunsu Lee at IDIM SNU
 
